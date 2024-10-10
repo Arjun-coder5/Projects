@@ -6,7 +6,7 @@ int main() {
     float account2 = 0.0;
     float account3 = 0.0;
 
-    int choice;
+    int choice; 
     int accountNumber;
     float amount;
 
