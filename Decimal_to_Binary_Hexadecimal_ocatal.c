@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+ printf("hello world ");
     int decimalNumber;
 
     // Input: decimal number from the user
