@@ -5,7 +5,7 @@ int main() {
     int decimalNumber;
 
     // Input: decimal number from the user
-    printf("Enter a decimal number: ");
+    printf("Enter a decimal  number: ");
     scanf("%d", &decimalNumber);
 
     // For binary representation
